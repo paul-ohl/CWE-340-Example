@@ -24,3 +24,6 @@ comment accéder à des documents non listés sur la pages d'accueil?
 
 En modifiant l'url avec une valeur non présente dans la page principale, on
 peut facilement accéder aux documents confidentiels privés non authorisés.
+
+Le processus est très facile à automatiser, comme vous pourrez le voir dans le
+[script d'exploitation](./hack.sh)
